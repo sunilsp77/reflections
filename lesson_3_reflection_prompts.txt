@@ -25,7 +25,8 @@ when copying repository from github to github on our account we use fork.
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+the changes made on git hub by others can be updated by it.
+then we can merge both the master and copy of the updated remote to avoid conflicts.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
