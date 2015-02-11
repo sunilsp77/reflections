@@ -40,4 +40,11 @@ using git and github would be easier and otherwise it would be very hard.
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+when we want to add a feature of which we are not completely sure.
+when we want changes to be proposed by others for that feature.
+
+branching allows us to have various propasal from others.
+it may be beneficial for us.
+
+while in case of master it is easy to make and add changes.
+without any merge conflicts.
