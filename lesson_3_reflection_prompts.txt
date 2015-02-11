@@ -31,7 +31,11 @@ then we can merge both the master and copy of the updated remote to avoid confli
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+It would be very difficult to collaborate without git or github.
+we would have to collaborate manually.
+
+using git and github would be easier and otherwise it would be very hard.
+
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
